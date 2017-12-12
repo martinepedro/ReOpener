@@ -1,0 +1,2 @@
+ProcessName=FormsInteg
+ExePath=C:\Users\pedro\source\repos\FormsInteg\FormsInteg\bin\Debug\FormsInteg.exe

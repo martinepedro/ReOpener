@@ -1,0 +1,7 @@
+c:\users\pedro\source\repos\ReOpen\ReOpen\bin\Debug\ReOpen.exe.config
+c:\users\pedro\source\repos\ReOpen\ReOpen\bin\Debug\ReOpen.exe
+c:\users\pedro\source\repos\ReOpen\ReOpen\bin\Debug\ReOpen.pdb
+c:\users\pedro\source\repos\ReOpen\ReOpen\obj\Debug\ReOpen.csprojResolveAssemblyReference.cache
+c:\users\pedro\source\repos\ReOpen\ReOpen\obj\Debug\ReOpen.csproj.CoreCompileInputs.cache
+c:\users\pedro\source\repos\ReOpen\ReOpen\obj\Debug\ReOpen.exe
+c:\users\pedro\source\repos\ReOpen\ReOpen\obj\Debug\ReOpen.pdb
